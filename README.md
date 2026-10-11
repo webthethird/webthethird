@@ -1,4 +1,4 @@
-# William (Bill) Bodell
+# William Edward Bodell III
 
 **Smart Contract Engineer | Protocol Design | Security Research**
 
