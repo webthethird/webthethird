@@ -22,7 +22,7 @@ My research on upgradeable smart contract security was published at **USENIX Sec
 
 **Wasabi Protocol (Dkoda Labs)** — Developed and upgraded core smart contracts for a perpetuals trading protocol, including a migration involving hundreds of millions of dollars in vaulted assets. Also built backend infrastructure and integrations spanning Solidity, Java/Spring Boot, MySQL, and React.
 
-Built **Wasabot**, an integration with Virtuals' Agent Commerce Protocol that processed over $100M in trading volume.
+Built **Wasabot**, an integration with Virtuals' Agent Commerce Protocol that processed over $80M in trading volume.
 
 *Most of my Wasabi contributions are in a company repository that is now private. I also used [@WEBthe3rd](https://github.com/WEBthe3rd) for professional development.*
 
