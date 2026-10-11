@@ -36,6 +36,10 @@ Built **Wasabot**, an integration with Virtuals' Agent Commerce Protocol that pr
 
 The broader research question is how economic mechanisms might improve online discourse without relying on traditional prediction-market resolution.
 
+**[Habitat](https://github.com/webthethird/Habitat)** — An ETHGlobal Waterloo 2023 hackathon project rewarding regenerative activities through on-chain attestations and NFT trees. Built with ERC-6551 token-bound accounts, Ethereum Attestation Service, World ID, and Solidity.
+
+**[FarmShare (2023)](https://github.com/FarmshareCSA/Farmshare)** — A modern prototype of my original community-supported agriculture concept, built for ETH Toronto 2023. Uses account abstraction, Safe multisigs, EAS attestations, and token incentives to coordinate contributions to local farms.
+
 ## Background & Interests
 
 My path into software engineering began in architecture. After discovering Ethereum in 2015, I started [FarmShare](https://github.com/webthethird/FarmShare), an early exploration of using blockchain technology to support local agriculture.
