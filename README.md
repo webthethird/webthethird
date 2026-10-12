@@ -22,9 +22,18 @@ My research on upgradeable smart contract security was published at **USENIX Sec
 
 **Wasabi Protocol (Dkoda Labs)** — Developed and upgraded core smart contracts for a perpetuals trading protocol, including a migration involving hundreds of millions of dollars in vaulted assets. Also built backend infrastructure and integrations spanning Solidity, Java/Spring Boot, MySQL, and React.
 
+**Selected verified contract implementations (Ethereum mainnet):**
+
+- [WasabiLongPool](https://etherscan.io/address/0x8e19c040b4c1c8d2a63e6cb375f01ab65d2ddc04#code#F45#L1) — Long-position pool, including position accounting, interest, and liquidation logic.
+- [WasabiShortPool](https://etherscan.io/address/0x61d0df7c0978d04071c6f1e94beba96e075ebe12#code#F45#L1) — Short-position pool, including position accounting, interest, and liquidation logic.
+- [WasabiRouter](https://etherscan.io/address/0x0b38cbcc2a215c636d0c3890e64e2a21255f437e#code#F41#L1) — Signed orders, vault-funded trades, and token swaps.
+- [PerpManager](https://etherscan.io/address/0xba5c5828f2fb77237b940187ec785ee4498d2683#code#F27#L1) — Access control, risk parameters, and vault upgrades.
+- [USDC WasabiVault](https://etherscan.io/address/0xf7855f37ee116a0736e3baa68ddc205467ae8153#code#F41#L1) — ERC-4626 lending vault with pool borrowing, yield strategies, and interest accounting.
+
 Built **Wasabot**, an integration with Virtuals' Agent Commerce Protocol that processed over $80M in trading volume.
 
-*Most of my Wasabi contributions are in a company repository that is now private. I also used [@WEBthe3rd](https://github.com/WEBthe3rd) for professional development.*
+*The original Wasabi development repository and commit history are private, but deployed contract implementations are publicly verified on Etherscan. I also used [@WEBthe3rd](https://github.com/WEBthe3rd) for professional development.*
+
 
 ### Independent Projects
 
