@@ -43,7 +43,12 @@ Built **Wasabot**, an integration with Virtuals' Agent Commerce Protocol that pr
 - [takes-classifier](https://github.com/webthethird/takes-classifier) — LLM classification and semantic clustering of opinions
 - [takes-miniapp](https://github.com/webthethird/takes-miniapp) — Next.js/Farcaster application integrating the classification pipeline with on-chain markets
 
-The broader research question is how economic mechanisms might improve online discourse without relying on traditional prediction-market resolution.
+**[Serious Social](https://github.com/Serious-Social/serious-social)** — The intellectual predecessor to Takes, exploring how economic incentives can encourage more thoughtful online discourse. Built around *Belief Markets*, where users stake USDC to support or challenge opinions on Farcaster, signaling conviction without requiring objective resolution. The system uses time-weighted staking and fee-funded rewards rather than winner-take-all settlement. Deployed on Base mainnet.
+
+- [serious-social](https://github.com/Serious-Social/serious-social) — Next.js/Farcaster mini app with cast-linked markets, personalized feeds, and on-chain staking
+- [serious-contracts](https://github.com/Serious-Social/serious-contracts) — Solidity belief markets, USDC custody, time-weighted conviction, and constant-time reward accounting
+
+*The broader research question behind both Takes and Serious Social is how economic mechanisms might improve online discourse without relying on traditional prediction-market resolution.*
 
 **[Habitat](https://github.com/webthethird/Habitat)** — An ETHGlobal Waterloo 2023 hackathon project rewarding regenerative activities through on-chain attestations and NFT trees. Built with ERC-6551 token-bound accounts, Ethereum Attestation Service, World ID, and Solidity.
 
